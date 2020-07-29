@@ -4,7 +4,7 @@
 
 #### We learn not only to code but also how to dream.
 
-### Check out my website at https://hicuplab.com
+### Check out our temporary website at https://hicuplab.com
 
 
 <!--
